@@ -1,0 +1,8 @@
+{
+  "name": "react-native-llm",
+  "version": "0.0.1",
+  "description": "run llm on react-native",
+  "main": "src/index",
+  "author": "JJ-Dynamite",
+  "license": "MIT"
+}
