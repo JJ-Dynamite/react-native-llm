@@ -1,3 +1,1 @@
-# rnai
-
-Something 🤯 is coming soon.
+We have moved this to our private source control system. Thank you.
